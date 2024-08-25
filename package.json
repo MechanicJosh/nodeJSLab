@@ -1,0 +1,11 @@
+{
+  "name": "nodejslab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "films.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Dunbar",
+  "license": "ISC"
+}
